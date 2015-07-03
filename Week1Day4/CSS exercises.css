@@ -1,0 +1,31 @@
+#mouse {
+  color: gray;
+}
+
+#canary {
+  color: orangeRed
+}
+
+.mammal {
+  color: lavenderBlush;
+  font-weight: bold;
+}
+
+.birds {
+  color: lightGray;
+  font-style: italic;
+}
+
+.fish {
+  color: lightYellow;
+  text-decoration: underline;
+}
+
+ul {
+  border: 3px dotted plum;
+  border-radius: 5px;
+}
+
+li {
+  border-top: 3px solid seagreen;
+}
