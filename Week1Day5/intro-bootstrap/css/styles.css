@@ -1,0 +1,21 @@
+section {
+  height: 150px;
+}
+#column-a {
+  background-color: red;
+}
+#column-b {
+  background-color: green;
+}
+#column-c {
+  background-color: blue;
+}
+#column-d {
+  background-color: pink;
+}
+
+container {
+  margin: 0px auto 0px auto;
+  width: 1000px;
+  display: block;
+}
